@@ -1,0 +1,30 @@
+* {
+    font-family: monospace;
+}
+
+header {
+    background-color: azure;
+    padding: 1px;
+}
+
+h1 { 
+    text-align: center;
+    font-size: 10em;
+}
+
+img {
+    height: 500px; 
+    width: auto;
+    float: left;
+    padding: 50px;
+}
+
+#about_me {
+    padding: 30px;
+}
+
+footer {
+    background-color: azure;
+    text-align: center; 
+    padding: 5px;
+}
